@@ -1,0 +1,38 @@
+body {
+	background-image: url(../images/background.png);
+	background-size: cover;
+	padding: 5px;
+}
+.first {
+	background-color: #FCFCFC;
+	width: 389px;
+	height: 42px;
+	text-align: center;
+	border-radius: 200px;
+	line-height: 40px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#container1 {
+	margin: auto;
+	width: 50%;
+	border: 3px solid #000000;
+	padding: 10px;
+}
+.second {
+	font-family:"Audiowide", sans-serif;
+}
+#container2 {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	padding-top: 40px;	
+}
+.button1 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-content: space-around;
+	background-color: #000000;
+	margin-top: 11px;
+	color: #FFFFFF;
+}
