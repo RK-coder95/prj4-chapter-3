@@ -36,3 +36,13 @@ body {
 	margin-top: 11px;
 	color: #FFFFFF;
 }
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+.h2 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+.middle{
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	padding-top: 40px;	
+}
